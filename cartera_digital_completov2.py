@@ -50,6 +50,7 @@ from textblob import TextBlob
 import os
 import time
 
+#Cambio Deya
 
 
 ############## Lectura del archivo portafolio #############################
