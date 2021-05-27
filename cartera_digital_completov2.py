@@ -50,7 +50,8 @@ from textblob import TextBlob
 import os
 import time
 
-
+import rty
+import uuu
 
 ############## Lectura del archivo portafolio #############################
 
